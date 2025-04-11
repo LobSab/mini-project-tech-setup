@@ -24,10 +24,10 @@ Git Install Confirmation
 ![virtual-box](./virtualbox-download.PNG)
 
 5. Virtual Box Install
-![virtualbox](./virtualbox-installed.PNG)
+![virtualbox]()
 
 5. Ubuntu Distro on Virtual Box
-![Ubuntu Distro](./ubuntu-distro.PNG)
+![Ubuntu Distro]()
 
 ### Accounts Created
 1. Amazon Web page
